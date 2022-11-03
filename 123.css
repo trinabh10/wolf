@@ -1,4 +1,23 @@
 body {
+ font-size: 32px;
+ backgroung-color: red;
+ color: black;
+}
+h1 {
  font-size: 100px;
-  h1 
-  
+}  
+ h2 {
+  font-size: 99px;
+} 
+h3 {
+ font-size: 98px;
+}
+h4 {
+ font-size: 18px;
+}
+h5 {
+ font-size :17px;
+ 
+ 
+ 
+ 
