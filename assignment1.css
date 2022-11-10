@@ -11,11 +11,13 @@
 }
 
 #god {
-  
+ border: 10px solid red;
 }
 
 #bob {
-  
+  border: 10px:
+    border-stye: dashed
+  border_color: red
 }
 
 
