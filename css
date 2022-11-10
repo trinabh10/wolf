@@ -5,6 +5,9 @@ Margin-left: 100px;
 Margin-right: 100px;
 Padding-top: 50px;
 Padding-bottom: 50px;
+height: 100px;
+border: 111px solid red;
+width: 100px;
 Padding-right: 50px
 Background-color: blue;
 Padding-left: 50px;
@@ -12,9 +15,15 @@ Padding-left: 50px;
 .box {
 font-size: 32px;
 Margin-bottom: 100px;
+height:100px;
+width:100px;
+border: 111px;
+border:-style: dashed;
+border-color: red;
 Background-color: yellow;
 Margin-left: 100px;
 Margin-right: 100px;
+
 Padding-top: 50px;
 Padding-bottom: 50px;
 Padding-right: 50px
